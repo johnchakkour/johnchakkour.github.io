@@ -1,0 +1,34 @@
+html {
+    background-color: #000045;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: white;
+}
+
+p:hover {
+    border: 3px solid white;
+    padding: 5px;
+    padding-right: 6px;
+}
+
+#about {
+    position: absolute;
+    bottom: 45%;
+    left: 20%;
+}
+
+#projects {
+    position: absolute;
+    bottom: 45%;
+    left: 46%;
+}
+
+#contact {
+    position: absolute;
+    bottom: 45%;
+    left: 75%;
+}
