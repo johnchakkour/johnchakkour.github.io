@@ -15,6 +15,10 @@ p:hover {
     padding-right: 6px;
 }
 
+p:visited {
+    color: white;
+}
+
 #about {
     position: absolute;
     bottom: 45%;
