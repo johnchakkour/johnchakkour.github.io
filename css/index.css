@@ -15,7 +15,7 @@ p:hover {
     padding-right: 6px;
 }
 
-p:visited {
+a:visited {
     color: white;
 }
 
