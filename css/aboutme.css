@@ -5,11 +5,12 @@ p {
 .navigation li {
     display: inline;
     font-family: 'Space Mono', monospace;
+    font-size: 1.5em;
 }
 
 .navigation li+li::before {
-  content: "/";
-  color: #222222;
+  content: " / ";
+  color: #444444;
 }
 
 .navigation a {
