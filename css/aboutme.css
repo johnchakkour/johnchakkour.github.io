@@ -5,14 +5,15 @@ p {
 .navigation li {
     display: inline;
     font-family: 'Space Mono', monospace;
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 .navigation li+li::before {
-  content: " / ";
+  content: " > ";
   color: #444444;
 }
 
 .navigation a {
     text-decoration: none;
 }
+
