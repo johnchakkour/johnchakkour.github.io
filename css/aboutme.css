@@ -11,3 +11,7 @@ p {
   content: "/";
   color: #222222;
 }
+
+.navigation a {
+    text-decoration: none;
+}
