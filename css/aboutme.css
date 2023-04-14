@@ -1,3 +1,13 @@
 p {
     font-family: 'Space Mono', monospace;
 }
+
+.navigation li {
+    display: inline;
+    font-family: 'Space Mono', monospace;
+}
+
+.navigation li+li::before {
+  content: "/";
+  color: #222222;
+}
