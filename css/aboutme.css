@@ -9,7 +9,7 @@ p {
 }
 
 .navigation li+li::before {
-  content: " > ";
+  content: " /";
   color: #444444;
 }
 
