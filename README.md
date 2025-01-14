@@ -1,2 +1,2 @@
 # johnchakkour.github.io
-My website (a work in progress)
+My website (a work in progress).
